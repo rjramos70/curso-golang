@@ -1,0 +1,2 @@
+# ignore ALL files in the mysql_data/ directory
+mysql_data/
